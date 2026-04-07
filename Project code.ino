@@ -11,14 +11,14 @@
 #include <Servo.h>
 #include <base64.h>
 
-const char* ssid     = "Asritha";
-const char* password = "9346421050";
+const char* ssid          = "WIFI - NAME";
+const char* password      = "WIFI - PASSWORD";
 const char* smtpServer    = "smtp.gmail.com";
 const int   smtpPort      = 465;
-const char* senderEmail   = "napariyojana@gmail.com";
-const char* senderPass    = "jjoykzsfunsjuzij";
-const char* receiverEmail = "asrithakakaraparthi123@gmail.com";
-const char* sheetsURL     = "https://script.google.com/macros/s/AKfycbxJgGIt2_SnFfKyk76ACnRe_RMhrNxwH8oX2wcyN1uI6AzEXUSnckrrGnfRrU9t5PRh/exec";
+const char* senderEmail   = "SENDER EMAIL";
+const char* senderPass    = "APP PASSWORD";
+const char* receiverEmail = "RECEIVER EMAIL";
+const char* sheetsURL     = "SHEETS URL";
 
 const int gateIrPin=D3,pad1IrPin=D0,pad2IrPin=D2,pad3IrPin=D1,servoPin=D4;
 const float costPerMinute=2.5;
