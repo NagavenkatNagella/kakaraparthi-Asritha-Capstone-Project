@@ -290,9 +290,9 @@ Stores:
 
 ## 👨‍💻 Team Members
 
-- **Vijay M** (Guide)  
-- **G. Sai Lakshmi**  
-- **Nagella Nagavenkat**  
+- **Vijay M** (Guide)
+- **Nagella Nagavenkat**   
+- **G. Sai Lakshmi**   
 - **Chaitra Reddy D**  
 - **K. Asritha**  
 - **C. Charitha**
