@@ -292,10 +292,10 @@ Stores:
 
 - **Vijay M** (Guide)
 - **Nagella Nagavenkat**
-- **C. Charitha**  
+- **C. Charitha**
+- **K. Asritha**   
 - **G. Sai Lakshmi**   
-- **Chaitra Reddy D**  
-- **K. Asritha**  
+- **Chaitra Reddy D**   
 
 Kalasalingam Academy of Research and Education  
 
