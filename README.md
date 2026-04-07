@@ -291,11 +291,11 @@ Stores:
 ## 👨‍💻 Team Members
 
 - **Vijay M** (Guide)
-- **Nagella Nagavenkat**   
+- **Nagella Nagavenkat**
+- **C. Charitha**  
 - **G. Sai Lakshmi**   
 - **Chaitra Reddy D**  
 - **K. Asritha**  
-- **C. Charitha**
 
 Kalasalingam Academy of Research and Education  
 
